@@ -1,0 +1,26 @@
+{
+    "id": "E4DD5B65",
+    "path": "D:/MTG/Meta analysis/MTGO Card Diversity/Scripts/card_diversity_analysis.R",
+    "project_path": "Scripts/card_diversity_analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1672397196709.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "52,0",
+        "scrollLine": "44"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1672398884,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1672398884595,
+    "read_only": false,
+    "read_only_alternatives": []
+}
